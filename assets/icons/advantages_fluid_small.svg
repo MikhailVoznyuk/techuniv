@@ -1,0 +1,30 @@
+<svg width="166" height="136" viewBox="0 0 166 136" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="82.9976" cy="68" r="7" transform="rotate(90 82.9976 68)" fill="#19B6E6"/>
+<path d="M78 42L41 42" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<line x1="82.9976" y1="57" x2="77.9976" y2="57" stroke="#19B6E6" stroke-width="2"/>
+<path d="M84 56H83V58H84V56ZM88 58C88.5523 58 89 57.5523 89 57C89 56.4477 88.5523 56 88 56V58ZM84 58H88V56H84V58Z" fill="#19B6E6"/>
+<path d="M82.9976 56V63" stroke="#19B6E6" stroke-width="2"/>
+<path d="M78 42L77.9977 57" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M41 22V42" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M41 22L1 22" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M1 1L1 22" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M88 42L88.0011 57" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M125 22V42" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M88 42L125 42" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M125 22L165 22" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M165 1V22" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="7" cy="7" r="7" transform="matrix(0 -1 -1 0 89.9976 75)" fill="#19B6E6"/>
+<path d="M78 94H41" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<line y1="-1" x2="5" y2="-1" transform="matrix(-1 0 0 1 82.9976 80)" stroke="#19B6E6" stroke-width="2"/>
+<path d="M84 80H83V78H84V80ZM88 78C88.5523 78 89 78.4477 89 79C89 79.5523 88.5523 80 88 80V78ZM84 78H88V80H84V78Z" fill="#19B6E6"/>
+<path d="M82.9976 80V73" stroke="#19B6E6" stroke-width="2"/>
+<path d="M78 94L77.9977 79" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M41 114V94" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M41 114H1" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M1 135L1 114" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M88 94L88.0011 79" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M125 114V94" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M88 94H125" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M125 114H165" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+<path d="M165 135V114" stroke="#19B6E6" stroke-width="2" stroke-linecap="round"/>
+</svg>
